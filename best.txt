@@ -6,3 +6,6 @@ Global
 1. TypeScript 
 2. ts node 
 1. npm i -g typeorm
+
+
+npm i --save-dev @types/express
